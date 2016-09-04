@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2016-09-03 04:27:06" filenum="9">
+	<Product productname="Product-Name" createdate="2016-09-05 06:41:13" filenum="9">
 		<File>
 			<FileName>SocksCapEx.exe</FileName>
 			<FileImageCompileTime>1472815290</FileImageCompileTime>
