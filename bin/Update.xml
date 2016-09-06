@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2016-09-05 06:41:13" filenum="9">
+	<Product productname="Product-Name" createdate="2016-09-06 23:17:38" filenum="9">
 		<File>
 			<FileName>SocksCapEx.exe</FileName>
-			<FileImageCompileTime>1472815290</FileImageCompileTime>
+			<FileImageCompileTime>1473173896</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>5331456</Length>
@@ -26,8 +26,8 @@
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>105</Length>
-			<FileDateLow>103661958</FileDateLow>
-			<FileDateHigh>30541138</FileDateHigh>
+			<FileDateLow>2590606881</FileDateLow>
+			<FileDateHigh>30541879</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<Register>NO</Register>
 			<ZipFile>NO</ZipFile>
@@ -45,8 +45,8 @@
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>1823</Length>
-			<FileDateLow>126177194</FileDateLow>
-			<FileDateHigh>30539284</FileDateHigh>
+			<FileDateLow>4084324473</FileDateLow>
+			<FileDateHigh>30541878</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<Register>NO</Register>
 			<ZipFile>NO</ZipFile>
@@ -60,7 +60,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL32.dll</FileName>
-			<FileImageCompileTime>1472815174</FileImageCompileTime>
+			<FileImageCompileTime>1473173807</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>2483200</Length>
@@ -79,7 +79,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL64.dll</FileName>
-			<FileImageCompileTime>1472815164</FileImageCompileTime>
+			<FileImageCompileTime>1473173800</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>3830272</Length>
