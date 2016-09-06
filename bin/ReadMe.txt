@@ -21,6 +21,7 @@ use below code snippets:
 5.CSHProgressWnd http://www.codeproject.com/Articles/294/Using-the-IE-built-in-progress-dialog
 6.CColumnTreeCtrl http://www.codeproject.com/Articles/23692/Tree-Control-with-Columns
 7.CColorStatic,CColorEdit http://www.codeproject.com/Articles/1035/Using-colors-in-CEdit-and-CStatic
+8.AutoUpdate http://www.pudn.com/downloads174/sourcecode/windows/detail807364.html
 
 use below microsoft technologies:
 1.Windows SDK https://developer.microsoft.com/zh-cn/windows/desktop/develop
