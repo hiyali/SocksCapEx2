@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2016-09-06 23:24:07" filenum="9">
+	<Product productname="Product-Name" createdate="2016-09-06 23:26:35" filenum="9">
 		<File>
-			<FileName>update.ini</FileName>
+			<FileName>ReadMe.txt</FileName>
 			<FileImageCompileTime>0</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
-			<Length>105</Length>
-			<FileDateLow>2590606881</FileDateLow>
-			<FileDateHigh>30541879</FileDateHigh>
+			<Length>1823</Length>
+			<FileDateLow>4084324473</FileDateLow>
+			<FileDateHigh>30541878</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<Register>NO</Register>
 			<ZipFile>NO</ZipFile>
 			<ForceOverwrite>NO</ForceOverwrite>
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
-			<LocalPath>config</LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/update.ini</URL>
+			<LocalPath></LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/ReadMe.txt</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -40,40 +40,21 @@
 			<Password></Password>
 		</File>
 		<File>
-			<FileName>ReadMe.txt</FileName>
+			<FileName>update.ini</FileName>
 			<FileImageCompileTime>0</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
-			<Length>1823</Length>
-			<FileDateLow>4084324473</FileDateLow>
-			<FileDateHigh>30541878</FileDateHigh>
+			<Length>105</Length>
+			<FileDateLow>2590606881</FileDateLow>
+			<FileDateHigh>30541879</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<Register>NO</Register>
 			<ZipFile>NO</ZipFile>
 			<ForceOverwrite>NO</ForceOverwrite>
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/ReadMe.txt</URL>
-			<UserName></UserName>
-			<Password></Password>
-		</File>
-		<File>
-			<FileName>SocksCapExDLL32.dll</FileName>
-			<FileImageCompileTime>1473173807</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
-			<Length>2483200</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
-			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExDLL32.dll</URL>
+			<LocalPath>config</LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/update.ini</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -112,6 +93,25 @@
 			<ExecutePar></ExecutePar>
 			<LocalPath>SsFreeAccountsSnifferPlugin</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SsFreeAccountsSnifferPlugin/SsFreeAccountsSniffer_freeshadowsocks.cf.dll</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
+		<File>
+			<FileName>SocksCapExDLL32.dll</FileName>
+			<FileImageCompileTime>1473173807</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>2483200</Length>
+			<FileDateLow>0</FileDateLow>
+			<FileDateHigh>0</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath></LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExDLL32.dll</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
