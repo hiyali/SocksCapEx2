@@ -19,7 +19,7 @@ use below code snippets:
 3.ngethostbyname http://www.codeproject.com/script/Content/ViewAssociatedFile.aspx?rzp=%2FKB%2FIP%2Fdns_query%2Fdnsquery_src.zip&zep=main.c&obid=17446&obtid=2&ovid=1
 4.CDlgMan,CDlgAnchor http://www.codeproject.com/Articles/4985/Easy-dialog-control-resizer
 5.CSHProgressWnd http://www.codeproject.com/Articles/294/Using-the-IE-built-in-progress-dialog
-6.CColumnTreeCtrl http://www.codeproject.com/Articles/23692/Tree-Control-with-Columns
+6.CColumnTreeCtrl http://www.mimec.org/components/mfc
 7.CColorStatic,CColorEdit http://www.codeproject.com/Articles/1035/Using-colors-in-CEdit-and-CStatic
 8.AutoUpdate http://www.pudn.com/downloads174/sourcecode/windows/detail807364.html
 

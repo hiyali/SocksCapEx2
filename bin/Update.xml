@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2016-09-07 00:28:36" filenum="9">
+	<Product productname="Product-Name" createdate="2016-09-11 07:30:22" filenum="11">
+		<File>
+			<FileName>ReadMe.txt</FileName>
+			<FileImageCompileTime>0</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>1823</Length>
+			<FileDateLow>3253798023</FileDateLow>
+			<FileDateHigh>30542136</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath></LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/ReadMe.txt</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
 		<File>
 			<FileName>SocksCapEx.exe</FileName>
-			<FileImageCompileTime>1473178749</FileImageCompileTime>
+			<FileImageCompileTime>1473549355</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>5331456</Length>
@@ -17,25 +36,6 @@
 			<ExecutePar></ExecutePar>
 			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapEx.exe</URL>
-			<UserName></UserName>
-			<Password></Password>
-		</File>
-		<File>
-			<FileName>ReadMe.txt</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
-			<Length>1823</Length>
-			<FileDateLow>4084324473</FileDateLow>
-			<FileDateHigh>30541878</FileDateHigh>
-			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/ReadMe.txt</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -60,7 +60,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL64.dll</FileName>
-			<FileImageCompileTime>1473178604</FileImageCompileTime>
+			<FileImageCompileTime>1473548760</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>3830272</Length>
@@ -98,7 +98,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL32.dll</FileName>
-			<FileImageCompileTime>1473178613</FileImageCompileTime>
+			<FileImageCompileTime>1473548766</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>2483200</Length>
@@ -169,6 +169,44 @@
 			<ExecutePar></ExecutePar>
 			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/使用说明.pdf</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
+		<File>
+			<FileName>antinat.exe</FileName>
+			<FileImageCompileTime>1473548794</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>1649664</Length>
+			<FileDateLow>0</FileDateLow>
+			<FileDateHigh>0</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath>Server</LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/Server/antinat.exe</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
+		<File>
+			<FileName>antinat.xml</FileName>
+			<FileImageCompileTime>0</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>1055</Length>
+			<FileDateLow>2960617133</FileDateLow>
+			<FileDateHigh>30542778</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath>Server</LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/Server/antinat.xml</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
