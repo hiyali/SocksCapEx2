@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2016-09-20 15:53:21" filenum="12">
-		<File>
-			<FileName>ReadMe.txt</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
-			<Length>1823</Length>
-			<FileDateLow>3253798023</FileDateLow>
-			<FileDateHigh>30542136</FileDateHigh>
-			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/ReadMe.txt</URL>
-			<UserName></UserName>
-			<Password></Password>
-		</File>
+	<Product productname="Product-Name" createdate="2016-09-20 16:36:36" filenum="12">
 		<File>
 			<FileName>SocksCapEx.exe</FileName>
 			<FileImageCompileTime>1474322567</FileImageCompileTime>
@@ -36,6 +17,25 @@
 			<ExecutePar></ExecutePar>
 			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapEx.exe</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
+		<File>
+			<FileName>ReadMe.txt</FileName>
+			<FileImageCompileTime>0</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>1823</Length>
+			<FileDateLow>3253798023</FileDateLow>
+			<FileDateHigh>30542136</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath></LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/ReadMe.txt</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -216,8 +216,8 @@
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>249</Length>
-			<FileDateLow>3682045655</FileDateLow>
-			<FileDateHigh>30544658</FileDateHigh>
+			<FileDateLow>2940660712</FileDateLow>
+			<FileDateHigh>30544665</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<Register>NO</Register>
 			<ZipFile>NO</ZipFile>
