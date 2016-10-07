@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2016-10-07 07:26:38" filenum="12">
+	<Product productname="Product-Name" createdate="2016-10-07 09:09:08" filenum="12">
 		<File>
 			<FileName>SocksCapEx.exe</FileName>
 			<FileImageCompileTime>1475794867</FileImageCompileTime>
@@ -168,7 +168,7 @@
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
 			<LocalPath></LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/使用说明.pdf</URL>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/%e4%bd%bf%e7%94%a8%e8%af%b4%e6%98%8e.pdf</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
