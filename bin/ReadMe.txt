@@ -10,8 +10,7 @@ It use below open source projects and follow their open source licenses, you can
 7.cgridlistctrlex http://www.codeproject.com/KB/list/CGridListCtrlEx.aspx
 8.pcre http://www.pcre.org/
 9.zlib http://www.zlib.net/
-10.zxing-cpp https://github.com/glassechidna/zxing-cpp
-11.win-iconv https://github.com/win-iconv/win-iconv
+10.QZXing https://sourceforge.net/projects/qzxing/
 
 use below code snippets:
 1.CButtonST http://www.codeproject.com/Articles/57/CButtonST-v-MFC-Flat-buttons
