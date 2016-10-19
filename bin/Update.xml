@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2016-10-18 10:14:12" filenum="12">
+	<Product productname="Product-Name" createdate="2016-10-19 13:48:32" filenum="12">
 		<File>
 			<FileName>ReadMe.txt</FileName>
 			<FileImageCompileTime>0</FileImageCompileTime>
@@ -22,7 +22,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapEx.exe</FileName>
-			<FileImageCompileTime>1476639037</FileImageCompileTime>
+			<FileImageCompileTime>1476855381</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>5331456</Length>
@@ -60,7 +60,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL64.dll</FileName>
-			<FileImageCompileTime>1475794725</FileImageCompileTime>
+			<FileImageCompileTime>1476855319</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>3830272</Length>
@@ -98,7 +98,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL32.dll</FileName>
-			<FileImageCompileTime>1475794735</FileImageCompileTime>
+			<FileImageCompileTime>1476855326</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>2483200</Length>
