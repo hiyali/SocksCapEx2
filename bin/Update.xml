@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2016-10-27 11:06:42" filenum="12">
+	<Product productname="Product-Name" createdate="2016-10-27 11:40:30" filenum="12">
 		<File>
 			<FileName>proxyrule.ini</FileName>
 			<FileImageCompileTime>0</FileImageCompileTime>
@@ -35,7 +35,7 @@
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
 			<LocalPath></LocalPath>
-			<URL>https://coding.net/u/sonyps5201314/p/SocksCapEx2/git/raw/master/bin/ReadMe.txt</URL>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/ReadMe.txt</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -54,7 +54,7 @@
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
 			<LocalPath></LocalPath>
-			<URL>https://coding.net/u/sonyps5201314/p/SocksCapEx2/git/raw/master/bin/SocksCapEx.exe</URL>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapEx.exe</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -73,7 +73,7 @@
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
 			<LocalPath>config</LocalPath>
-			<URL>https://coding.net/u/sonyps5201314/p/SocksCapEx2/git/raw/master/bin/config/update.ini</URL>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/update.ini</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -92,7 +92,7 @@
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
 			<LocalPath></LocalPath>
-			<URL>https://coding.net/u/sonyps5201314/p/SocksCapEx2/git/raw/master/bin/SocksCapExDLL64.dll</URL>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExDLL64.dll</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -111,7 +111,7 @@
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
 			<LocalPath>SsFreeAccountsSnifferPlugin</LocalPath>
-			<URL>https://coding.net/u/sonyps5201314/p/SocksCapEx2/git/raw/master/bin/SsFreeAccountsSnifferPlugin/SsFreeAccountsSniffer_freeshadowsocks.cf.dll</URL>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SsFreeAccountsSnifferPlugin/SsFreeAccountsSniffer_freeshadowsocks.cf.dll</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -130,7 +130,7 @@
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
 			<LocalPath></LocalPath>
-			<URL>https://coding.net/u/sonyps5201314/p/SocksCapEx2/git/raw/master/bin/SocksCapExDLL32.dll</URL>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExDLL32.dll</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -149,7 +149,7 @@
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
 			<LocalPath>SsFreeAccountsSnifferPlugin</LocalPath>
-			<URL>https://coding.net/u/sonyps5201314/p/SocksCapEx2/git/raw/master/bin/SsFreeAccountsSnifferPlugin/SsFreeAccountsSniffer.dll</URL>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SsFreeAccountsSnifferPlugin/SsFreeAccountsSniffer.dll</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -168,7 +168,7 @@
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
 			<LocalPath>SsFreeAccountsSnifferPlugin</LocalPath>
-			<URL>https://coding.net/u/sonyps5201314/p/SocksCapEx2/git/raw/master/bin/SsFreeAccountsSnifferPlugin/SsFreeAccountsSniffer_i.freevpnss.com.dll</URL>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SsFreeAccountsSnifferPlugin/SsFreeAccountsSniffer_i.freevpnss.com.dll</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -187,7 +187,7 @@
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
 			<LocalPath></LocalPath>
-			<URL>https://coding.net/u/sonyps5201314/p/SocksCapEx2/git/raw/master/bin/%e4%bd%bf%e7%94%a8%e8%af%b4%e6%98%8e.pdf</URL>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/%e4%bd%bf%e7%94%a8%e8%af%b4%e6%98%8e.pdf</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -206,7 +206,7 @@
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
 			<LocalPath>Server</LocalPath>
-			<URL>https://coding.net/u/sonyps5201314/p/SocksCapEx2/git/raw/master/bin/Server/antinat.exe</URL>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/Server/antinat.exe</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -225,7 +225,7 @@
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
 			<LocalPath>Server</LocalPath>
-			<URL>https://coding.net/u/sonyps5201314/p/SocksCapEx2/git/raw/master/bin/Server/antinat.xml</URL>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/Server/antinat.xml</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
