@@ -2,6 +2,25 @@
 <xmlRoot keyname="KeyValue">
 	<Product productname="Product-Name" createdate="2016-10-24 13:31:58" filenum="12">
 		<File>
+			<FileName>proxyrule.ini</FileName>
+			<FileImageCompileTime>0</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>249</Length>
+			<FileDateLow>2047747623</FileDateLow>
+			<FileDateHigh>30551479</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath>config</LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/proxyrule.ini</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
+		<File>
 			<FileName>ReadMe.txt</FileName>
 			<FileImageCompileTime>0</FileImageCompileTime>
 			<FileVersion></FileVersion>
@@ -207,25 +226,6 @@
 			<ExecutePar></ExecutePar>
 			<LocalPath>Server</LocalPath>
 			<URL>https://coding.net/u/sonyps5201314/p/SocksCapEx2/git/raw/master/bin/Server/antinat.xml</URL>
-			<UserName></UserName>
-			<Password></Password>
-		</File>
-		<File>
-			<FileName>proxyrule.ini</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
-			<Length>249</Length>
-			<FileDateLow>2047747623</FileDateLow>
-			<FileDateHigh>30551479</FileDateHigh>
-			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath>config</LocalPath>
-			<URL>https://coding.net/u/sonyps5201314/p/SocksCapEx2/git/raw/master/bin/config/proxyrule.ini</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
