@@ -8,7 +8,7 @@
 	<interface value='0.0.0.0'/>
 
 	<!-- Port to listen on -->
-	<port value='443'/>
+	<port value='7777'/>
 	
 	<!-- enable protocols, like '4,5,5e', only 5e is safe -->
 	<enable_protocols value='5e'/>
