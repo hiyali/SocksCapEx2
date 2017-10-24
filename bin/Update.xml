@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2017-08-26 22:14:06" filenum="15">
+	<Product productname="Product-Name" createdate="2017-10-25 00:56:52" filenum="16">
 		<File>
 			<FileName>ReadMe.txt</FileName>
 			<FileImageCompileTime>0</FileImageCompileTime>
@@ -22,7 +22,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL32.dll</FileName>
-			<FileImageCompileTime>1503500616</FileImageCompileTime>
+			<FileImageCompileTime>1508857653</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>3011072</Length>
@@ -60,7 +60,7 @@
 		</File>
 		<File>
 			<FileName>antinat.exe</FileName>
-			<FileImageCompileTime>1503239111</FileImageCompileTime>
+			<FileImageCompileTime>1508857715</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>1607168</Length>
@@ -98,7 +98,7 @@
 		</File>
 		<File>
 			<FileName>SsFreeAccountsSniffer_i.freevpnss.com.dll</FileName>
-			<FileImageCompileTime>1503409285</FileImageCompileTime>
+			<FileImageCompileTime>1508859617</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>28827</Length>
@@ -136,7 +136,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapEx.exe</FileName>
-			<FileImageCompileTime>1503502128</FileImageCompileTime>
+			<FileImageCompileTime>1508862324</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>5535232</Length>
@@ -155,7 +155,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL64.dll</FileName>
-			<FileImageCompileTime>1503500603</FileImageCompileTime>
+			<FileImageCompileTime>1508857642</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>4567552</Length>
@@ -174,7 +174,7 @@
 		</File>
 		<File>
 			<FileName>SsFreeAccountsSniffer_freeshadowsocks.cf.dll</FileName>
-			<FileImageCompileTime>1503408258</FileImageCompileTime>
+			<FileImageCompileTime>1508858031</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>28830</Length>
@@ -193,7 +193,7 @@
 		</File>
 		<File>
 			<FileName>SsFreeAccountsSniffer.dll</FileName>
-			<FileImageCompileTime>1503409625</FileImageCompileTime>
+			<FileImageCompileTime>1508858858</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>28811</Length>
@@ -216,8 +216,8 @@
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>263596</Length>
-			<FileDateLow>3120309977</FileDateLow>
-			<FileDateHigh>30564575</FileDateHigh>
+			<FileDateLow>4157705271</FileDateLow>
+			<FileDateHigh>30612285</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<Register>NO</Register>
 			<ZipFile>NO</ZipFile>
@@ -235,8 +235,8 @@
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>573</Length>
-			<FileDateLow>734959558</FileDateLow>
-			<FileDateHigh>30583782</FileDateHigh>
+			<FileDateLow>2684995851</FileDateLow>
+			<FileDateHigh>30624990</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<Register>NO</Register>
 			<ZipFile>NO</ZipFile>
@@ -283,6 +283,25 @@
 			<ExecutePar></ExecutePar>
 			<LocalPath>config</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/dnsmap.ini</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
+		<File>
+			<FileName>settings.ini</FileName>
+			<FileImageCompileTime>0</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>329</Length>
+			<FileDateLow>2667511328</FileDateLow>
+			<FileDateHigh>30624997</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath>config</LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/settings.ini</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
