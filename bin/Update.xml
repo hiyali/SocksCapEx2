@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2017-11-29 05:48:51" filenum="17">
+	<Product productname="Product-Name" createdate="2017-12-26 20:35:41" filenum="19">
 		<File>
 			<FileName>ReadMe.txt</FileName>
 			<FileImageCompileTime>0</FileImageCompileTime>
@@ -22,7 +22,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL32.dll</FileName>
-			<FileImageCompileTime>1511904393</FileImageCompileTime>
+			<FileImageCompileTime>1514287580</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>3011072</Length>
@@ -60,7 +60,7 @@
 		</File>
 		<File>
 			<FileName>antinat.exe</FileName>
-			<FileImageCompileTime>1511819113</FileImageCompileTime>
+			<FileImageCompileTime>1514287604</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>1607168</Length>
@@ -136,7 +136,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapEx.exe</FileName>
-			<FileImageCompileTime>1511904412</FileImageCompileTime>
+			<FileImageCompileTime>1514287627</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>5535232</Length>
@@ -155,7 +155,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL64.dll</FileName>
-			<FileImageCompileTime>1511904381</FileImageCompileTime>
+			<FileImageCompileTime>1514287570</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>4567552</Length>
@@ -306,6 +306,25 @@
 			<Password></Password>
 		</File>
 		<File>
+			<FileName>SocksCapExLDR64.dll</FileName>
+			<FileImageCompileTime>1514271848</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>94720</Length>
+			<FileDateLow>0</FileDateLow>
+			<FileDateHigh>0</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath></LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExLDR64.dll</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
+		<File>
 			<FileName>History.txt</FileName>
 			<FileImageCompileTime>0</FileImageCompileTime>
 			<FileVersion></FileVersion>
@@ -321,6 +340,25 @@
 			<ExecutePar></ExecutePar>
 			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/History.txt</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
+		<File>
+			<FileName>SocksCapExLDR32.dll</FileName>
+			<FileImageCompileTime>1514271850</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>58368</Length>
+			<FileDateLow>0</FileDateLow>
+			<FileDateHigh>0</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath></LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExLDR32.dll</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
