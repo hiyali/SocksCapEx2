@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2017-12-26 20:35:41" filenum="19">
+	<Product productname="Product-Name" createdate="2017-12-26 21:39:41" filenum="19">
 		<File>
 			<FileName>ReadMe.txt</FileName>
 			<FileImageCompileTime>0</FileImageCompileTime>
@@ -136,7 +136,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapEx.exe</FileName>
-			<FileImageCompileTime>1514287627</FileImageCompileTime>
+			<FileImageCompileTime>1514293467</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>5535232</Length>
