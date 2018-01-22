@@ -10,7 +10,7 @@ It use below open source projects and follow their open source licenses, you can
 7.cgridlistctrlex http://www.codeproject.com/KB/list/CGridListCtrlEx.aspx
 8.pcre http://www.pcre.org/
 9.zlib http://www.zlib.net/
-10.QZXing https://sourceforge.net/projects/qzxing/
+10.LZMA http://www.7-zip.org/sdk.html
 11.Curl https://curl.haxx.se/
 12.Process Hacker http://processhacker.sourceforge.net/
 13.tinyxml2 https://github.com/leethomason/tinyxml2
@@ -32,15 +32,3 @@ use below microsoft technologies:
 3.MFC https://msdn.microsoft.com/en-us/library/d06h2x6e(v=vs.90).aspx
 
 thanks all.
-
-
-
-
-
-
-
-
-
-
-
-
