@@ -1,31 +1,12 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2018-01-28 18:22:22" filenum="20">
+	<Product productname="Product-Name" createdate="2018-03-05 23:12:19" filenum="20">
 		<File>
-			<FileName>ReadMe.txt</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
+			<FileName>SocksCapExLDR32.dll</FileName>
+			<FileImageCompileTime>1520259380</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
-			<Length>1819</Length>
-			<FileDateLow>1020646217</FileDateLow>
-			<FileDateHigh>30641110</FileDateHigh>
-			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/ReadMe.txt</URL>
-			<UserName></UserName>
-			<Password></Password>
-		</File>
-		<File>
-			<FileName>SocksCapExDLL32.dll</FileName>
-			<FileImageCompileTime>1517070738</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
-			<Length>3011072</Length>
+			<Length>58368</Length>
 			<FileDateLow>0</FileDateLow>
 			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
@@ -35,7 +16,7 @@
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
 			<LocalPath></LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExDLL32.dll</URL>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExLDR32.dll</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -59,25 +40,6 @@
 			<Password></Password>
 		</File>
 		<File>
-			<FileName>antinat.exe</FileName>
-			<FileImageCompileTime>1517063821</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
-			<Length>1607168</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
-			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath>Server</LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/Server/antinat.exe</URL>
-			<UserName></UserName>
-			<Password></Password>
-		</File>
-		<File>
 			<FileName>antinat.xml</FileName>
 			<FileImageCompileTime>0</FileImageCompileTime>
 			<FileVersion></FileVersion>
@@ -93,25 +55,6 @@
 			<ExecutePar></ExecutePar>
 			<LocalPath>Server</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/Server/antinat.xml</URL>
-			<UserName></UserName>
-			<Password></Password>
-		</File>
-		<File>
-			<FileName>SsFreeAccountsSniffer_i.freevpnss.com.dll</FileName>
-			<FileImageCompileTime>1517065078</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
-			<Length>28827</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
-			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath>SsFreeAccountsSnifferPlugin</LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SsFreeAccountsSnifferPlugin/SsFreeAccountsSniffer_i.freevpnss.com.dll</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -136,7 +79,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapEx.exe</FileName>
-			<FileImageCompileTime>1517134296</FileImageCompileTime>
+			<FileImageCompileTime>1520259553</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>5535232</Length>
@@ -155,7 +98,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL64.dll</FileName>
-			<FileImageCompileTime>1517070571</FileImageCompileTime>
+			<FileImageCompileTime>1520259401</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>4567552</Length>
@@ -169,6 +112,139 @@
 			<ExecutePar></ExecutePar>
 			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExDLL64.dll</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
+		<File>
+			<FileName>proxyrule.ini</FileName>
+			<FileImageCompileTime>0</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>573</Length>
+			<FileDateLow>2933452770</FileDateLow>
+			<FileDateHigh>30628522</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath>config</LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/proxyrule.ini</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
+		<File>
+			<FileName>SocksCapExDLL32.dll</FileName>
+			<FileImageCompileTime>1520259416</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>3011072</Length>
+			<FileDateLow>0</FileDateLow>
+			<FileDateHigh>0</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath></LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExDLL32.dll</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
+		<File>
+			<FileName>dnsmap.ini</FileName>
+			<FileImageCompileTime>0</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>190</Length>
+			<FileDateLow>630594203</FileDateLow>
+			<FileDateHigh>30586398</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath>config</LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/dnsmap.ini</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
+		<File>
+			<FileName>antinat.exe</FileName>
+			<FileImageCompileTime>1520259455</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>1607168</Length>
+			<FileDateLow>0</FileDateLow>
+			<FileDateHigh>0</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath>Server</LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/Server/antinat.exe</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
+		<File>
+			<FileName>SsFreeAccountsSniffer_SsrSubscribeGeneral.dll</FileName>
+			<FileImageCompileTime>1517064410</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>41984</Length>
+			<FileDateLow>0</FileDateLow>
+			<FileDateHigh>0</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath>SsFreeAccountsSnifferPlugin</LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SsFreeAccountsSnifferPlugin/SsFreeAccountsSniffer_SsrSubscribeGeneral.dll</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
+		<File>
+			<FileName>History.txt</FileName>
+			<FileImageCompileTime>0</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>3579</Length>
+			<FileDateLow>3985422796</FileDateLow>
+			<FileDateHigh>30651331</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath></LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/History.txt</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
+		<File>
+			<FileName>SsFreeAccountsSniffer_i.freevpnss.com.dll</FileName>
+			<FileImageCompileTime>1517065078</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>28827</Length>
+			<FileDateLow>0</FileDateLow>
+			<FileDateHigh>0</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath>SsFreeAccountsSnifferPlugin</LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SsFreeAccountsSnifferPlugin/SsFreeAccountsSniffer_i.freevpnss.com.dll</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -230,21 +306,21 @@
 			<Password></Password>
 		</File>
 		<File>
-			<FileName>proxyrule.ini</FileName>
+			<FileName>ReadMe.txt</FileName>
 			<FileImageCompileTime>0</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
-			<Length>573</Length>
-			<FileDateLow>2933452770</FileDateLow>
-			<FileDateHigh>30628522</FileDateHigh>
+			<Length>1819</Length>
+			<FileDateLow>3019863110</FileDateLow>
+			<FileDateHigh>30651333</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<Register>NO</Register>
 			<ZipFile>NO</ZipFile>
 			<ForceOverwrite>NO</ForceOverwrite>
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
-			<LocalPath>config</LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/proxyrule.ini</URL>
+			<LocalPath></LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/ReadMe.txt</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -268,25 +344,6 @@
 			<Password></Password>
 		</File>
 		<File>
-			<FileName>dnsmap.ini</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
-			<Length>190</Length>
-			<FileDateLow>630594203</FileDateLow>
-			<FileDateHigh>30586398</FileDateHigh>
-			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath>config</LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/dnsmap.ini</URL>
-			<UserName></UserName>
-			<Password></Password>
-		</File>
-		<File>
 			<FileName>settings.ini</FileName>
 			<FileImageCompileTime>0</FileImageCompileTime>
 			<FileVersion></FileVersion>
@@ -306,46 +363,8 @@
 			<Password></Password>
 		</File>
 		<File>
-			<FileName>SsFreeAccountsSniffer_SsrSubscribeGeneral.dll</FileName>
-			<FileImageCompileTime>1517064410</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
-			<Length>41984</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
-			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath>SsFreeAccountsSnifferPlugin</LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SsFreeAccountsSnifferPlugin/SsFreeAccountsSniffer_SsrSubscribeGeneral.dll</URL>
-			<UserName></UserName>
-			<Password></Password>
-		</File>
-		<File>
-			<FileName>History.txt</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
-			<Length>3579</Length>
-			<FileDateLow>3074041324</FileDateLow>
-			<FileDateHigh>30629961</FileDateHigh>
-			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/History.txt</URL>
-			<UserName></UserName>
-			<Password></Password>
-		</File>
-		<File>
 			<FileName>SocksCapExLDR64.dll</FileName>
-			<FileImageCompileTime>1517070557</FileImageCompileTime>
+			<FileImageCompileTime>1520259377</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>94720</Length>
@@ -359,25 +378,6 @@
 			<ExecutePar></ExecutePar>
 			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExLDR64.dll</URL>
-			<UserName></UserName>
-			<Password></Password>
-		</File>
-		<File>
-			<FileName>SocksCapExLDR32.dll</FileName>
-			<FileImageCompileTime>1517070726</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
-			<Length>58368</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
-			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExLDR32.dll</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>

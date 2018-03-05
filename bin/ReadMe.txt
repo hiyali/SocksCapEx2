@@ -1,4 +1,4 @@
-SocksCapEx2 is a excellent safe-socks communication solution
+﻿SocksCapEx2 is a excellent safe-socks communication solution
 
 It use below open source projects and follow their open source licenses, you can download their source code from their website, and check their open source licenses:
 1.antinat http://antinat.sourceforge.net/
