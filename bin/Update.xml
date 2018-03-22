@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2018-03-05 23:12:19" filenum="20">
+	<Product productname="Product-Name" createdate="2018-03-22 21:24:01" filenum="20">
 		<File>
 			<FileName>SocksCapExLDR32.dll</FileName>
-			<FileImageCompileTime>1520259380</FileImageCompileTime>
+			<FileImageCompileTime>1521723135</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>58368</Length>
@@ -79,7 +79,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapEx.exe</FileName>
-			<FileImageCompileTime>1520259553</FileImageCompileTime>
+			<FileImageCompileTime>1521723400</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>5535232</Length>
@@ -98,7 +98,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL64.dll</FileName>
-			<FileImageCompileTime>1520259401</FileImageCompileTime>
+			<FileImageCompileTime>1521723369</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>4567552</Length>
@@ -136,7 +136,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL32.dll</FileName>
-			<FileImageCompileTime>1520259416</FileImageCompileTime>
+			<FileImageCompileTime>1521723381</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>3011072</Length>
@@ -306,6 +306,25 @@
 			<Password></Password>
 		</File>
 		<File>
+			<FileName>SocksCapExLDR64.dll</FileName>
+			<FileImageCompileTime>1521723133</FileImageCompileTime>
+			<FileVersion></FileVersion>
+			<ProductVersion></ProductVersion>
+			<Length>94720</Length>
+			<FileDateLow>0</FileDateLow>
+			<FileDateHigh>0</FileDateHigh>
+			<InstallDir>CURRENTDIR</InstallDir>
+			<Register>NO</Register>
+			<ZipFile>NO</ZipFile>
+			<ForceOverwrite>NO</ForceOverwrite>
+			<Execute>NO</Execute>
+			<ExecutePar></ExecutePar>
+			<LocalPath></LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExLDR64.dll</URL>
+			<UserName></UserName>
+			<Password></Password>
+		</File>
+		<File>
 			<FileName>ReadMe.txt</FileName>
 			<FileImageCompileTime>0</FileImageCompileTime>
 			<FileVersion></FileVersion>
@@ -321,25 +340,6 @@
 			<ExecutePar></ExecutePar>
 			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/ReadMe.txt</URL>
-			<UserName></UserName>
-			<Password></Password>
-		</File>
-		<File>
-			<FileName>availablednslist.txt</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
-			<Length>226</Length>
-			<FileDateLow>362372299</FileDateLow>
-			<FileDateHigh>30580073</FileDateHigh>
-			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath>config</LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/availablednslist.txt</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
@@ -363,21 +363,21 @@
 			<Password></Password>
 		</File>
 		<File>
-			<FileName>SocksCapExLDR64.dll</FileName>
-			<FileImageCompileTime>1520259377</FileImageCompileTime>
+			<FileName>availablednslist.txt</FileName>
+			<FileImageCompileTime>0</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
-			<Length>94720</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
+			<Length>226</Length>
+			<FileDateLow>362372299</FileDateLow>
+			<FileDateHigh>30580073</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<Register>NO</Register>
 			<ZipFile>NO</ZipFile>
 			<ForceOverwrite>NO</ForceOverwrite>
 			<Execute>NO</Execute>
 			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
-			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExLDR64.dll</URL>
+			<LocalPath>config</LocalPath>
+			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/availablednslist.txt</URL>
 			<UserName></UserName>
 			<Password></Password>
 		</File>
