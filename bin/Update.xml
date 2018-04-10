@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2018-04-10 11:10:24" filenum="20">
+	<Product productname="Product-Name" createdate="2018-04-10 11:53:22" filenum="20">
 		<File>
 			<FileName>SocksCapExLDR32.dll</FileName>
 			<FileImageCompileTime>1523328356</FileImageCompileTime>
@@ -79,7 +79,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapEx.exe</FileName>
-			<FileImageCompileTime>1523328483</FileImageCompileTime>
+			<FileImageCompileTime>1523331996</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>5535232</Length>
