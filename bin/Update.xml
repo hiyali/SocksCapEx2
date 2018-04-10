@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2018-04-03 06:54:03" filenum="20">
+	<Product productname="Product-Name" createdate="2018-04-10 11:10:24" filenum="20">
 		<File>
 			<FileName>SocksCapExLDR32.dll</FileName>
-			<FileImageCompileTime>1522708992</FileImageCompileTime>
+			<FileImageCompileTime>1523328356</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>58368</Length>
@@ -79,7 +79,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapEx.exe</FileName>
-			<FileImageCompileTime>1522709072</FileImageCompileTime>
+			<FileImageCompileTime>1523328483</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>5535232</Length>
@@ -98,7 +98,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL64.dll</FileName>
-			<FileImageCompileTime>1522709006</FileImageCompileTime>
+			<FileImageCompileTime>1523328371</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>4567552</Length>
@@ -136,7 +136,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL32.dll</FileName>
-			<FileImageCompileTime>1522709016</FileImageCompileTime>
+			<FileImageCompileTime>1523328381</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>3011072</Length>
@@ -174,7 +174,7 @@
 		</File>
 		<File>
 			<FileName>antinat.exe</FileName>
-			<FileImageCompileTime>1522709039</FileImageCompileTime>
+			<FileImageCompileTime>1523328406</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>1607168</Length>
@@ -216,8 +216,8 @@
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>3579</Length>
-			<FileDateLow>3985422796</FileDateLow>
-			<FileDateHigh>30651331</FileDateHigh>
+			<FileDateLow>1442028972</FileDateLow>
+			<FileDateHigh>30658068</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<Register>NO</Register>
 			<ZipFile>NO</ZipFile>
@@ -307,7 +307,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExLDR64.dll</FileName>
-			<FileImageCompileTime>1522708989</FileImageCompileTime>
+			<FileImageCompileTime>1523328353</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>94720</Length>
